@@ -2,7 +2,7 @@ from item import Item
 from todoList import ToDoList
 
 new_todo = Item(text="Mow the lawn")
-print(new_todo.get_text())
+# print(new_todo.get_text())
 
 todo_list = ToDoList()
 
